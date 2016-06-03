@@ -33,8 +33,7 @@
 				<div class="row outros">
 					<div class="col-md-6">
 						<strong>Formas de Pagamento</strong><br><br>
-						<img src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/footer-pgto1.png"?>" />
-						<img src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/footer-pgto2.png"?>" />
+						<img src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/footer-pgto.png"?>" />
 					</div>
 					<div class="col-md-3">
 						<strong>Televendas</strong><br><br>

@@ -1,7 +1,10 @@
 #header{
+	margin-top:10px;
+
 	ul.menu-top{
 		margin:0;
 		padding:0;
+		margin-right: 20px;
 		list-style-type: none;
 		text-align: right;
 
@@ -12,6 +15,11 @@
 			margin-bottom: 15px;
 		}
 	} 
+	
+	div.tel-top{
+		font-size: 20px;
+		color:#057814;
+	}
 
 	form.search-form{
 		margin-top: 20px;
@@ -22,7 +30,7 @@
 			padding:9px;
 			border:0;
 			border:1px solid #d8d8d8;
-			width: 85%;
+			width: 75%;
 		}
 		input.pesquisar-submit{
 			float:left;
@@ -46,13 +54,13 @@
 		li.number{
 			padding:8.5px;
 			border-left:0;
-			width: 60%;
+			width: 65%;
 		}
 
 	}
 
 	nav{
-		background-color:#005176;
+		background-color:#057814;
 		margin: 25px 0;
 		
 		ul.main-navigation{

@@ -22,7 +22,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
  
 #page{
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	color:#005274;
+	color:#565656;
 	text-align:center;
 
 	a{
@@ -38,14 +38,14 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 		margin-top: 0;
 		margin-bottom: 20px;
 		font-size: 24px;
-		color:#0082ab;
+		color:#057814;		
 	}
 
 	h1.small{
 		margin-top: 0;
 		margin-bottom: 20px;
 		font-size: 24px;
-		color:#0082ab;		
+		color:#057814;		
 		font-weight: bold;
 	}
 
@@ -62,7 +62,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 		margin-top: 0;
 		margin-bottom: 20px;
 		font-size: 24px;
-		color:#0082ab;
+		color:#057814;
 		font-weight: bold;
 	}
 
@@ -70,7 +70,6 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 		margin-top: 0;
 		margin-bottom: 20px;
 		font-size: 20px;
-		color:#0082ab;
 		font-weight: bold;		
 	}
 
@@ -79,10 +78,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 		font-size: 16px;
 	}
 
-	.underline{
-		border-bottom: 4px solid #0082ab;
-		padding-bottom: 10px;
-	}
+	
 
 	@import 'header';
 	@import 'content';
@@ -121,7 +117,7 @@ section#newsletter{
 
 	div.left{
 		padding: 25px;
-		background-color: #005176;
+		background-color: #057814;
 	}
 
 	div.right{
@@ -131,7 +127,7 @@ section#newsletter{
 			padding: 8px 5px;				
 		}
 		.btn-news{
-			background-color:#005176;
+			background-color:#057814;
 			padding:10px 25px;
 			color:white;
 			border:0;

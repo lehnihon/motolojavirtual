@@ -24,7 +24,7 @@
 
 			span.price{
 				font-weight: bold;
-				color:#005176;
+				color:#057814;
 				font-size: 15px;
 				padding:10px 0;
 				display: block;
@@ -44,18 +44,18 @@
 			}
 
 			a.btn-comprar{
-				background-color:#00a9d6;
+				background-color:#909090;
 				color:white;
 				font-size: 18px;
 				padding:5px 0;
 			}
 			a.btn-comprar:hover{
-				background-color:#60deff;
+				background-color:#bcbcbc;
 			}
 		}
 
 		article:hover{
-			border:1px solid #005176;
+			border:1px solid #057814;
 		}
 	}
 
@@ -63,7 +63,7 @@
 		margin-bottom: 50px;
 
 		.info-right{
-			background-color:#005176;
+			background-color:#057814;
 			color:white;
 			padding:20px 50px;			
 		}
@@ -91,7 +91,7 @@ section#produto-woo{
 	div.woo-produtos-menu{
 		
 		div.titulo{
-			background-color:#005176;
+			background-color:#057814;
 			color: white;
 			font-size: 18px;
 			padding:10px 20px;
@@ -135,7 +135,7 @@ section#produto-woo{
 
 	div#wc-correios-simulator{
 		.button{
-		    background-color: #00a9d6;
+		    background-color: #909090;
 		    color: white;
 		    font-size: 18px;
 		    padding: 10px 25px;	
@@ -144,7 +144,7 @@ section#produto-woo{
 
 		.input-text{
 			margin-right: 0;
-			border:1px solid #bebebe;
+			border:1px solid #bcbcbc;
 			padding: 18px;
 		}
 	}
@@ -178,16 +178,16 @@ section#produto-woo{
 				display: block;
 				
 				a{
-					color: #0ca7d3;
+					font-weight: bold;
 				}
 			}
 			div.price-product{
 				span.price-text{
-					color: #0ca7d3;
+					font-weight: bold;
 				}
 
 				p.price{
-					color:#005176;
+					color:#057814;
 				}			
 			}
 
@@ -195,7 +195,7 @@ section#produto-woo{
 			form.cart{
 				span.qtd-text{
 					display: block;
-					color: #0ca7d3;
+					font-weight: bold;
 				}
 
 				div.quantity{
@@ -207,7 +207,7 @@ section#produto-woo{
 
 				button.single_add_to_cart_button{
 					float:none;
-					background-color:#00a9d6;
+					background-color:#909090;
 					color:white;
 					font-size: 18px;
 					padding:10px 25px;
@@ -215,7 +215,7 @@ section#produto-woo{
 				}
 
 				button.single_add_to_cart_button:hover{
-					background-color:#60deff;
+					background-color:#bcbcbc;
 				}
 			}
 		}
@@ -240,7 +240,7 @@ section#produto-woo{
 
 				span.price{
 					font-weight: bold;
-					color:#005176;
+					color:#057814;
 					font-size: 15px;
 					padding:10px 0;
 					display: block;
@@ -260,19 +260,19 @@ section#produto-woo{
 				}
 
 				a.btn-comprar{
-					background-color:#00a9d6;
+					background-color:#909090;
 					color:white;
 					font-size: 18px;
 					padding:5px 0;
 				}
 				a.btn-comprar:hover{
-					background-color:#60deff;
+					background-color:#bcbcbc;
 				}
 			}
 
 
 			article:hover{
-				border:1px solid #005176;
+				border:1px solid #057814;
 			}			
 		}
 
@@ -301,7 +301,7 @@ div.related{
 
 		span.price{
 			font-weight: bold;
-			color:#005176;
+			color:#057814;
 			font-size: 15px;
 			padding:10px 0;
 			display: block;
@@ -321,19 +321,19 @@ div.related{
 		}
 
 		a.btn-comprar{
-			background-color:#00a9d6;
+			background-color:#909090;
 			color:white;
 			font-size: 18px;
 			padding:5px 0;
 		}
 		a.btn-comprar:hover{
-			background-color:#60deff;
+			background-color:#bcbcbc;
 		}
 	}
 
 
 	article:hover{
-		border:1px solid #005176;
+		border:1px solid #057814;
 	}	
 }
 
@@ -421,26 +421,26 @@ div#outros{
 		}
 
 		input.button{
-			background-color:#00a9d6;
+			background-color:#909090;
 			color:white;
 			font-size: 18px;
 			padding:10px 25px;		
 		}
 
 		input.button:hover{
-			background-color:#60deff;
+			background-color:#bcbcbc;
 		}
 
 	}
 
 	a.checkout-button{
-		background-color:#00a9d6;
+		background-color:#909090;
 		color:white;
 		font-size: 18px;
 		padding:5px 0;		
 	}
 	a.checkout-button:hover{
-		background-color:#60deff;
+		background-color:#bcbcbc;
 	}
 
 	a.wc-backward{
