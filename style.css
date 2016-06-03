@@ -27,7 +27,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
     color: #606060; }
   #page a:hover {
     text-decoration: none;
-    color: #00a9d6; }
+    color: #69ae72; }
   #page h1 {
     margin-top: 0;
     margin-bottom: 20px;
@@ -110,14 +110,14 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
         list-style-type: none; }
         #page #header nav ul.main-navigation li {
           float: left;
-          width: 10%; }
+          width: 12%; }
           #page #header nav ul.main-navigation li a {
             color: white;
             width: 100%;
             display: block;
             padding: 15px 0; }
         #page #header nav ul.main-navigation li:hover {
-          background-color: #00a9d6; }
+          background-color: #69ae72; }
       #page #header nav div.menu-responsivo {
         position: relative; }
   @media (max-width: 991px) {
@@ -460,6 +460,9 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
         padding-top: 25px; }
         #page #footer div.footer-content div.outros img {
           margin-right: 50px; }
+        #page #footer div.footer-content div.outros p.tel-bot {
+          font-size: 20px;
+          color: #057814; }
     #page #footer div.copyrino {
       text-align: center;
       color: white;

@@ -31,15 +31,15 @@
 					</div>
 				</div><!-- .row -->
 				<div class="row outros">
-					<div class="col-md-6">
+					<div class="col-md-9">
 						<strong>Formas de Pagamento</strong><br><br>
 						<img src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/footer-pgto.png"?>" />
 					</div>
 					<div class="col-md-3">
 						<strong>Televendas</strong><br><br>
-						<p>
-							11 2307-3079 <br>
-							11 2307-3026
+						<p class="tel-bot">
+							11 1234-5678 <br>
+							11 1234-5678
 						</p>
 					</div>
 				</div>

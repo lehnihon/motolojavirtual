@@ -30,7 +30,7 @@
 				<div class="col-md-5">
 					<div class="row">
 						<ul class="menu-top">
-							<li class="hide-op"><a href="<?php echo home_url( '/' ).'sobre'; ?>">Sobre a Space Cell</a></li>
+							<li class="hide-op"><a href="<?php echo home_url( '/' ).'sobre'; ?>">Sobre a Mega Moto Peças</a></li>
 							<li><a href="<?php echo home_url( '/' ).'minha-conta'; ?>">Minha Conta / Cadastre-se</a></li>
 							<li class="hide-op"><a href="<?php echo home_url( '/' ).'contato'; ?>">Contato</a></li>
 						</ul>
@@ -69,17 +69,21 @@
 						<span class="glyphicon glyphicon-align-justify" aria-hidden="true"></span>
 					</button>
 					<ul class="dropdown-menu">
-						<li><a href="<?php echo home_url( '/' )."categoria/eletroportateis"; ?>">Eletroportáteis</a></li>
-						<li><a href="<?php echo home_url( '/' )."categoria/celulares"; ?>">Celulares</a></li>
-						<li><a href="<?php echo home_url( '/' )."categoria/ar-e-ventilacao"; ?>">Ar e Ventilação</a></li>
-						<li><a href="<?php echo home_url( '/' )."categoria/beleza"; ?>">Beleza</a></li>					
+						<li><a href="<?php echo home_url( '/' )."categoria/acessorios"; ?>">Acessórios</a></li>
+						<li><a href="<?php echo home_url( '/' )."categoria/motos-nacionais"; ?>">Motos Nacionais</a></li>
+						<li><a href="<?php echo home_url( '/' )."categoria/motos-importadas"; ?>">Motos Importadas</a></li>
+						<li><a href="<?php echo home_url( '/' )."categoria/motor-completo"; ?>">Motor Completo</a></li>
+						<li><a href="<?php echo home_url( '/' )."categoria/koso"; ?>">Koso</a></li>
+						<li><a href="<?php echo home_url( '/' )."categoria/juntas-para-motores"; ?>">Juntas para Motores</a></li>
 					</ul>								
 				</div>
 				<ul class="main-navigation clearfix">
-					<li><a href="<?php echo home_url( '/' )."categoria/eletroportateis"; ?>">Eletroportáteis</a></li>
-					<li><a href="<?php echo home_url( '/' )."categoria/celulares"; ?>">Celulares</a></li>
-					<li><a href="<?php echo home_url( '/' )."categoria/ar-e-ventilacao"; ?>">Ar e Ventilação</a></li>
-					<li><a href="<?php echo home_url( '/' )."categoria/beleza"; ?>">Beleza</a></li>		
+					<li><a href="<?php echo home_url( '/' )."categoria/acessorios"; ?>">Acessórios</a></li>
+					<li><a href="<?php echo home_url( '/' )."categoria/motos-nacionais"; ?>">Motos Nacionais</a></li>
+					<li><a href="<?php echo home_url( '/' )."categoria/motos-importadas"; ?>">Motos Importadas</a></li>
+					<li><a href="<?php echo home_url( '/' )."categoria/motor-completo"; ?>">Motor Completo</a></li>
+					<li><a href="<?php echo home_url( '/' )."categoria/koso"; ?>">Koso</a></li>
+					<li><a href="<?php echo home_url( '/' )."categoria/juntas-para-motores"; ?>">Juntas para Motores</a></li>
 				</ul>				
 			</div>
 		</nav><!-- #site-navigation -->
