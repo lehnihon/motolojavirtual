@@ -51,11 +51,8 @@
 		<div class="copyrino">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-10">
-						&copy; Copyright <?php echo date('Y') ?> - Mega Moto Peças | <a target="_blank" href="http://agenciarino.com.br/">Site desenvolvido pela Agência Rino.</a>
-					</div>
-					<div class="col-md-2">
-						<a target="_blank" href="http://agenciarino.com.br/"><img class="anima-rino" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/footer-rino.png"?>" /></a>	
+					<div class="col-md-12">
+						&copy; Copyright <?php echo date('Y') ?> - Mega Moto Peças  
 					</div>
 				</div>	
 			</div>	
