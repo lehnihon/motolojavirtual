@@ -43,24 +43,46 @@ get_header( 'shop' ); ?>
 				<div class="titulo">
 					FILTRAR POR
 				</div>
-				<?php if($cat_obj->slug == 'meu' or $cat_obj->slug == 'celulares'):?>
+				<?php if($cat_obj->slug == 'acessorios'):?>
 
 					<div class="filtro">
 						<div class="titulo-filtro">
-							<span>Quantidade de Chips</span> <img class="e-claro img-plus" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/plus.jpg"; ?>"/>
+							<span>Acessórios</span> <img class="e-claro img-plus" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/plus.jpg"; ?>"/>
 						</div>
 						<?php echo do_shortcode('[widget id="yith-woo-ajax-navigation-2"]'); ?>
 					</div>
 
 				<?php endif; ?>
 
-				<?php if( $cat_obj->slug == 'mallory'):?>
+				<?php if( $cat_obj->slug == 'koso'):?>
 
 					<div class="filtro">
 						<div class="titulo-filtro">
-							<span>Tipo</span> <img class="e-claro img-plus" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/plus.jpg"; ?>"/>
+							<span>Koso</span> <img class="e-claro img-plus" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/plus.jpg"; ?>"/>
 						</div>
 						<?php echo do_shortcode('[widget id="yith-woo-ajax-navigation-3]'); ?>
+					</div>
+
+				<?php endif; ?>
+
+				<?php if( $cat_obj->slug == 'motos-importadas'):?>
+
+					<div class="filtro">
+						<div class="titulo-filtro">
+							<span>Motos Importadas</span> <img class="e-claro img-plus" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/plus.jpg"; ?>"/>
+						</div>
+						<?php echo do_shortcode('[widget id="yith-woo-ajax-navigation-4]'); ?>
+					</div>
+
+				<?php endif; ?>
+
+				<?php if( $cat_obj->slug == 'motos-nacionais'):?>
+
+					<div class="filtro">
+						<div class="titulo-filtro">
+							<span>Motos Nacionais</span> <img class="e-claro img-plus" src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/images/plus.jpg"; ?>"/>
+						</div>
+						<?php echo do_shortcode('[widget id="yith-woo-ajax-navigation-5]'); ?>
 					</div>
 
 				<?php endif; ?>
